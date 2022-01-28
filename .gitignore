@@ -1,0 +1,6 @@
+#ignorar a pasta resources
+/resources
+
+#ignorar o banco
+
+db.sqlite3
