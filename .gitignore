@@ -2,5 +2,10 @@
 /resources
 
 #ignorar o banco
-
 db.sqlite3
+
+#ignorar migrations
+/contatos/migrations
+
+#ignorar pycache
+/contatos/__pycache__
