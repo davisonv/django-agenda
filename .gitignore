@@ -8,4 +8,7 @@ db.sqlite3
 /contatos/migrations
 
 #ignorar pycache
-/contatos/__pycache__
+/__pycache__/
+
+#ignorar venvDir
+/venv/
