@@ -12,3 +12,6 @@ db.sqlite3
 
 #ignorar venvDir
 /venv/
+
+#ignorar pasta media
+/media/
